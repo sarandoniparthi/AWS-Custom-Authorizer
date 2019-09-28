@@ -10,7 +10,9 @@ serverless create --template aws-nodejs --name serverless-project
 
 serverless deploy
 
-## This function is a custom authorizer which will generate custom authorizer with jsonwebtoekns
+## This function is a custom authorizer which will generate jsonwebtoekns for login 
+
+
 
 
 
