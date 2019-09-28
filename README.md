@@ -1,3 +1,11 @@
+##AWS Lambda with nodejs custom authorizer implementation
+
+https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-use-lambda-authorizer.html 
+
+https://docs.aws.amazon.com/lambda/latest/dg/nodejs-prog-model-handler.html
+
+We can implement it in any language 
+
 ## Sererless Framework
 
 https://serverless.com/ 
