@@ -4,6 +4,10 @@ https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-use-lamb
 
 https://docs.aws.amazon.com/lambda/latest/dg/nodejs-prog-model-handler.html
 
+Flow 
+![image](https://user-images.githubusercontent.com/26525621/66263521-b3320a80-e811-11e9-8441-cedcedbd8245.png)
+
+
 We can implement it in any language 
 
 ## Sererless Framework
